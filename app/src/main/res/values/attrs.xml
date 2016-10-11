@@ -7,3 +7,16 @@
         <attr name="indicatorMargin" format="dimension"/>		<!-- 指示器之间的间隔 -->
     </declare-styleable>  
 </resources>
+
+<!--其中resource是跟标签，可以在里面定义若干个declare-styleable，<declare-styleable name="MyView">中name定义了变量的名称，下面可以再自定义多个属性，针对<attr name="myTextSize" format="dimension"/>来说，其属性的名称为"myTextSize"，format指定了该属性类型为dimension，只能表示字体的大小。-->
+<!--format还可以指定其他的类型比如;-->
+<!--reference   表示引用，参考某一资源ID-->
+<!--string   表示字符串-->
+<!--color   表示颜色值-->
+<!--dimension   表示尺寸值-->
+<!--boolean   表示布尔值-->
+<!--integer   表示整型值-->
+<!--float   表示浮点值-->
+<!--fraction   表示百分数-->
+<!--enum   表示枚举值-->
+<!--flag   表示位运算-->

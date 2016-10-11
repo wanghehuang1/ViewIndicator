@@ -16,3 +16,6 @@
 	    />
 
 </RelativeLayout>
+
+<!--xmlns:viewpager="http://schemas.android.com/apk/res/com.dsw.viewindicator"-->
+<!--自己定义属性的前缀名字+项目的包名，这样一来，在我们自己定义的view的属性中，就可以使用自己在attr中定义的属性-->
