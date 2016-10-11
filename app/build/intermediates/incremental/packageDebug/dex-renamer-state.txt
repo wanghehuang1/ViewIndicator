@@ -1,0 +1,7 @@
+#Tue Oct 11 14:13:03 CST 2016
+base.0=E\:\\learningCode\\ViewIndicator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dd4318f05f153fa21c8d391538b881e23197ad61
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\learningCode\\ViewIndicator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d4a773c7674795e5639571a76a7dabae6a0d4031\\classes.dex
+base.1=E\:\\learningCode\\ViewIndicator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d4a773c7674795e5639571a76a7dabae6a0d4031
+file.0=E\:\\learningCode\\ViewIndicator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_dd4318f05f153fa21c8d391538b881e23197ad61\\classes.dex

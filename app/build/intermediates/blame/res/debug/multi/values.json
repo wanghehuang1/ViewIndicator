@@ -1,0 +1,68 @@
+[
+    {
+        "outputFile": "E:\\learningCode\\ViewIndicator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 313,
+                    "endColumn": 50,
+                    "endOffset": 359
+                },
+                "from": {
+                    "file": "E:\\learningCode\\ViewIndicator\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endColumn": 50,
+                        "endOffset": 65
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 364,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "E:\\learningCode\\ViewIndicator\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 191,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "E:\\learningCode\\ViewIndicator\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 679
+                    }
+                }
+            }
+        ]
+    }
+]

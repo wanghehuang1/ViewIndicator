@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewPager">
+        <attr name="containerHeight" format="dimension"/>			<!-- 容器的高度 -->
+        <attr name="indicatorSize" format="dimension"/>  		<!-- 指示器大小 -->
+        <attr name="indicatorBackgroud" format="reference"/>	<!-- 指示器背景，可以说drawable对象 -->
+        <attr name="indicatorMargin" format="dimension"/>		<!-- 指示器之间的间隔 -->
+    </declare-styleable>  
+</resources>
